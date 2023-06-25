@@ -1,8 +1,5 @@
 <h1 align="center">Evolutionary Fitness 💪</h1>
 
-| ![Phone view](./public/phone_view.png) | ![Tablet view](./public/tablet_view.png) | ![Desktop view](./public/desktop_view.png) |
-| -------------------------------------- | ---------------------------------------- | ------------------------------------------ |
-
 ## What's this? 🤔
 
 A prototype landing page for a prototype bussiness called EvoGym. It's fully responsive, dynamic and very lightweight 🍃.
